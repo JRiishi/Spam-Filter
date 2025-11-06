@@ -1,0 +1,22 @@
+# Backend
+backend/__pycache__
+backend/.pytest_cache
+backend/.venv
+backend/venv
+backend/*.pyc
+backend/.env
+
+# Frontend
+frontend/node_modules
+frontend/dist
+frontend/.env
+frontend/.env.local
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# General
+.git
+.gitignore
+*.md
+.DS_Store
